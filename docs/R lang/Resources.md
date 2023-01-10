@@ -1,0 +1,2 @@
+- https://r4ds.had.co.nz/ - published in 2017
+- https://r4ds.hadley.nz/ - a newer version published in early 2023
